@@ -1,2 +1,4 @@
-matplotlib==3.4.1
-scipy==1.6.2
+matplotlib
+scipy
+tensorflow==2.4.1
+kaggle==1.5.12
