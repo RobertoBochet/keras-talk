@@ -2,3 +2,4 @@ matplotlib
 scipy
 tensorflow==2.4.1
 kaggle==1.5.12
+pandas==1.2.4
